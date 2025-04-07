@@ -1,0 +1,13 @@
+H:\OU_Bus\OUBus\OUBus\bin\Debug\OUBus.exe.config
+H:\OU_Bus\OUBus\OUBus\bin\Debug\OUBus.exe
+H:\OU_Bus\OUBus\OUBus\bin\Debug\OUBus.pdb
+H:\OU_Bus\OUBus\OUBus\obj\Debug\OUBus.csproj.AssemblyReference.cache
+H:\OU_Bus\OUBus\OUBus\obj\Debug\OUBus.csproj.SuggestedBindingRedirects.cache
+H:\OU_Bus\OUBus\OUBus\obj\Debug\OUBus.Form1.resources
+H:\OU_Bus\OUBus\OUBus\obj\Debug\OUBus.Properties.Resources.resources
+H:\OU_Bus\OUBus\OUBus\obj\Debug\OUBus.csproj.GenerateResource.cache
+H:\OU_Bus\OUBus\OUBus\obj\Debug\OUBus.csproj.CoreCompileInputs.cache
+H:\OU_Bus\OUBus\OUBus\obj\Debug\OUBus.exe
+H:\OU_Bus\OUBus\OUBus\obj\Debug\OUBus.pdb
+H:\OU_Bus\OUBus\OUBus\obj\Debug\OUBus.RegisterForm.resources
+H:\OU_Bus\OUBus\OUBus\obj\Debug\OUBus.AdminMainForm.resources
